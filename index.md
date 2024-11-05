@@ -39,4 +39,4 @@ Personal TODO's
 > [!CAUTION]
 > Filter the noise from the important signal. SNR :arrow_up_small:
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
