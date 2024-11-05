@@ -1,5 +1,6 @@
 # Markdown Practice
 
+### Step 1: Add a header
 This is an <ins>underlined</ins> text 
 
 > This is a skills challenge for familiarizing GitHub.
@@ -39,4 +40,23 @@ Personal TODO's
 > [!CAUTION]
 > Filter the noise from the important signal. SNR :arrow_up_small:
 
+### Step 2: Add an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Step 3: Add a code example
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```javascript
+var myVar = "Function scope";
+let myLet = "{} Block scope";
+```
+
+```python
+age = 18      # age is of type int
+name = "John" # name is now of type str
+print(name)
+```
