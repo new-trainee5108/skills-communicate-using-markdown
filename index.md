@@ -5,8 +5,6 @@ This is an <ins>underlined</ins> text
 
 > This is a skills challenge for familiarizing GitHub.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
 Today's TODO's
 
 1. GitHub skills
@@ -15,12 +13,12 @@ Today's TODO's
 
 Personal TODO's
 
-* Shower
-* Retinol
-* Bodycare
+* ~~Shower~~
+* ~~Retinol~~
+* ~~Bodycare~~
 
 - [x] GitHub skills ongoing
-- [ ] Shower, Retinol, Mask
+- [x] Shower, Retinol, Mask
 - [ ] Projects The Odin Project
 
  @new-trainee :+1: Learning going well!
@@ -60,3 +58,8 @@ age = 18      # age is of type int
 name = "John" # name is now of type str
 print(name)
 ```
+### Step 4: Make a task list
+
+- [ ] CDL License 
+- [ ] i-KWSP account activation
+- [ ] Study CS
